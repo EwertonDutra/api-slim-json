@@ -17,4 +17,4 @@ Ahh não esquece de mudar a configurações da conexão com o se banco de dados 
 
 Depois é só abri o navegador no `localhost:8080`
 
-Qualquer dúvida pode deixar um cometário por aqui mesmo no github :) .
+Qualquer dúvida pode deixar um cometário por aqui mesmo no github :)
