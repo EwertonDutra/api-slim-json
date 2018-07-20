@@ -1,4 +1,4 @@
-# API criado com SlimFramework
+# API criada com SlimFramework
 
 Criei uma API básica de como começar com o Slim usando a arquitetura do Skeleton.
 
